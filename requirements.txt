@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+
+opencv-python
+numpy
+mediapipe
+requests
+google-cloud-vision
+gtts
+python-dotenv
+google-generativeai

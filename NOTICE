@@ -1,0 +1,31 @@
+SkyScribe - Air Writing & Mathematical Expression Recognition System  
+Copyright (C) 2025  
+
+Developed by:  
+- Om Kolhe (Project Lead & Developer)  
+- Sahil Gawande (Developer & Collaborator) 
+
+SkyScribe is licensed under the Apache License, Version 2.0.  
+You may obtain a copy of the license at:  
+
+   http://www.apache.org/licenses/LICENSE-2.0  
+
+Third-Party Software Acknowledgments 
+SkyScribe integrates the following third-party technologies, which are subject to their respective licenses:  
+
+-Google Cloud Vision API- Used for text recognition  
+  License: https://cloud.google.com/terms  
+-Gemini API (Google AI)- Used for mathematical expression evaluation  
+  License: https://ai.google.dev/terms  
+-Python, OpenCV, and related libraries- Used for processing  
+  License: https://opensource.org/licenses/PSF-2  
+
+Trademark Notice 
+"SkyScribe" is an original project name and cannot be used for commercial or promotional purposes without explicit permission from the project owners.  
+
+Disclaimer 
+SkyScribe is distributed "AS IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
+See the Apache License 2.0 for details on limitations of liability.  
+
+For inquiries, contributions, or commercial licensing, contact:  
+📧 [kolheom1311@gmail.com]
